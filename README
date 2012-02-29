@@ -1,0 +1,3 @@
+This is the basic boilerplate that I use to kickstart new HTML5 projects. It contains an HTML document with the relevant meta tags and links alongside
+a basic CSS document (containing Eric Meyers Reset) and some body styling. I have also included jQuery and a global.js file as it is used in most
+projects but may be removed if necessary.
